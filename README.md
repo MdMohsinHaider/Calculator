@@ -1,3 +1,3 @@
 # Calculator
 calculator
- https://mdmohsinhaider.github.io/Calculator/
+https://mdmohsinhaider.github.io/Calculator/

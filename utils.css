@@ -1,10 +1,12 @@
 .text-center{
     text-align: center;
-    background-color: aqua;
+    background: linear-gradient(rgb(7, 168, 168),aqua),rgb(7, 168, 168);
+    border-radius: 20pc;
+    box-shadow: 10px 10px 15px rgba(23, 61, 66, 0.623);
 }
-.bg-red{
+/* .bg-red{
     background-color: red;
-}
+} */
 
 .mx-auto{
     margin: auto;

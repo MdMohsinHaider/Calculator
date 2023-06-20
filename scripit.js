@@ -14,4 +14,5 @@ Array.from(buttons).forEach((button)=>{
         document.querySelector('input').value = string;
     })
 })
-document.write("this is java scripts");
+alert("Alpha Version")
+document.write("Md Mohsin Haider")
